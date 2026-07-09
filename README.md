@@ -25,15 +25,14 @@ agrivigil-cloud/ │ ├── agrivigil_core/ ├── monitoring/ ├── d
 
 Current Status:
 
-✅ Django project initialized
+> Django project initialized
+> Monitoring app created
 
-✅ Monitoring app created
+> Environment variables configured
 
-✅ Environment variables configured
+> Documentation structure created
 
-✅ Documentation structure created
-
-:Roadmap
+Roadmap:
 
 Device management
 Sensor data ingestion
